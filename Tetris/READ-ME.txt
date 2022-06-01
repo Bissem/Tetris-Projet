@@ -1,0 +1,19 @@
+Le programme est assez simple d'utilisation et assez intuitive.
+Il est juste important de lire les règles car la règle sur le calcul des points et la facon de placer les pièces diverge du jeu original donc lisez les règle SVP.
+Les scanf sont tous sécurisé donc aucun risque de corrompre le programme de cette facon.
+Le programme fonctionne aussi bien sur Windows que sur Linux.
+
+Dans le programme est disponible :
+
+	- Un menu esthétique.
+
+	- Le jeu tetris.
+
+	- Le timer pour les tours.
+
+	- Le changement de difficulté pour le timer.
+
+	- Les règles du jeu.
+
+	- Le score des joueurs precédent et la posibilité d'enrgeistrer son score sous un pseudo.
+
